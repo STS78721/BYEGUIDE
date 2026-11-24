@@ -1,0 +1,19 @@
+{
+  "_comment": "Nintendo Switch 2 Welcome Tour (update v262144) ExeFS. Hashes only; no game data.",
+  "short_name": "welcometour",
+  "display_name": "Nintendo Switch 2 Welcome Tour",
+  "port_version": "0.1.0",
+  "display_version": "1.0.4",
+  "title_id": "040057C02159A000",
+  "exefs_sha256": {
+    "main": "23116ddb4eabb5a7980d80873607a58b3140e6f8ad37938e92fab92f66134195",
+    "main.npdm": "801fed5653717572b3a8a36d3e8a5501a4f246dbe03178212e044953021cfa3c",
+    "rtld": "5da6303f76fbe439b20639d1ee85b82781e961bef6432faf5ff09aacecd52950",
+    "sdk": "27b2246c50c4ec7b4a7e7db614e787e157ab92e207c8fbf5fce28e66dd6faaf2",
+    "subsdk0": "2f43f6b3ac36cd1c5c1824dcb8d48b75fdfccacb4976a75d5a2bced3aa88a418",
+    "subsdk1": "7e6c5cf986702e7fcca897305a5a94b2feca6c57b6e57dd421cb758e260dcaad",
+    "subsdk2": "3752ccee1848ae27018f975a09cb7ebadc09861a43a6671ac70837f23bd09d93",
+    "subsdk3": "f76ffe8377a6c75c1ad4ad27f9d97f7e2a7209890916297bcd70fb531d7cc7b9",
+    "subsdk4": "6c6eeccf7a9c9dc192ae6aa82d8bef7753512dfc7f12fcd2d6d84f470a4a9bfb"
+  }
+}
