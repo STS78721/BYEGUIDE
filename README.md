@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="runtime/welcometour.png" width="128" alt="SteelTemple Welcome Tour icon">
 
@@ -10,8 +10,8 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-requirements)
 [![Vulkan](https://img.shields.io/badge/Vulkan-1.3-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)](#-under-the-hood)
-[![Game version](https://img.shields.io/badge/game-1.0.4-00C8EE?style=for-the-badge)](#-quick-start)
-[![Release](https://img.shields.io/badge/release-0.1.0-FF5852?style=for-the-badge&labelColor=10141F)](https://github.com/STS78721/BYEGUIDE/releases/tag/0.1.0)
+[![Game version](https://img.shields.io/badge/game-1.0.4-00C8EE?style=for-the-badge&labelColor=10141F)](#-quick-start)
+[![Release](https://img.shields.io/badge/release-0.1.0%20Early%20Release-FF5852?style=for-the-badge&labelColor=10141F)](https://github.com/STS78721/BYEGUIDE/releases/tag/0.1.0)
 [![License](https://img.shields.io/badge/license-GPL--3.0%2B-blue?style=for-the-badge)](#-credits--licence)
 
 **[Quick start](#-quick-start)** · **[Features](#-highlights)** · **[Status](#-status)** · **[How it works](#-under-the-hood)** · **[Changelog](CHANGELOG.md)** · **[Credits](#-credits--licence)**
